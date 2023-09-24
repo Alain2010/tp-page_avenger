@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
 body{
     background-image: url(../img/fond.png);
     width: 80%;
@@ -95,6 +94,8 @@ footer{
     top: 2em;
     font-size: 1.3em;
 }
-.fa-mask{
-    color:  #FF8D05;
+.bi{
+    color: #FF8D05;
+    float: left;
+    margin-right: 0.35em;
 }
